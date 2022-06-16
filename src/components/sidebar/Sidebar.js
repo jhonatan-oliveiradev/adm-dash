@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import './Sidebar.css';
 import logo from '../../assets/logo.png';
 
@@ -7,7 +8,7 @@ const Sidebar = ({ sidebarOpen, openSidebar, closeSidebar }) => {
       <div className="sidebar__title">
         <div className="sidebar__img">
           <img src={logo} alt="logotipo da empresa" />
-          <h1>ADM System</h1>
+          <h1>Restaurant</h1>
         </div>
 
         <i

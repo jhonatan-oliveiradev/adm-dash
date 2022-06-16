@@ -68,7 +68,10 @@
 }
 
 .sidebar__link a:hover {
-  color: #c0c0c0;
+  background-color: #c0c0c0;
+  color: #242424;
+  padding: 3px;
+  border-radius: 3px;
 }
 
 .sidebar__link a:focus {

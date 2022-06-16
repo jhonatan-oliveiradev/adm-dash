@@ -1,7 +1,10 @@
-<h1 align="center">ADM System | Admin Dashboard com ReactJS</h1>
+<div align="center">
+<img src="../src/assets/logo.png" width="50px" alt="logotipo">
+<h1 align="center">Restaurant ADM System | Admin Dashboard com ReactJS</h1>
+</div>
 
 <p align="center">
-    <img src="" alt="Home">
+    <img src="../src/assets/home.png" alt="Home">
 </p>
 
 <p align="center">
@@ -26,6 +29,10 @@
   <img alt="" src=".github/preview-desktop.png" width="100%" />
 </p>
 
+## 📄 Descrição:
+
+Este projeto foi desenvolvido para o Front-End de um sistema de gestão para restaurantes. O desafio era criar uma interface simples e direta, mas sem perder funcionalidades importantes para que o usuário pudesse administrar seu negócio de forma rápida e intuitiva.
+
 ## 🚀 Tecnologias:
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -40,7 +47,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto:
 
-### [Confira aqui!](https://adm-dash.vercel.app/).
+### [Confira aqui!](https://adm-dash.vercel.app/)
 
 ## 🎨 Inspiração:
 

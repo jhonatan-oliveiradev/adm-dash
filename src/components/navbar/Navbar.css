@@ -6,7 +6,8 @@
   align-items: center;
   justify-content: space-between;
   padding: 0 30px 0 30px;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid transparent;
+  box-shadow: 2px 2px 5px #d9d9d9, -2px -2px 5px #fff;
 }
 
 .nav_icon {
@@ -29,7 +30,7 @@
 .navbar__left .active_link {
   color: #265acc;
   border-bottom: 3px solid #265acc;
-  padding-bottom: 0.75rem;
+  padding-bottom: 0.2rem;
 }
 
 .navbar__right {
@@ -43,10 +44,16 @@
   text-decoration: none;
 }
 
+.navbar__right a img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .navbar__right a i {
   color: #a5aaad;
   font-size: 1rem;
-  border-radius: 50px;
+  border-radius: 50%;
   background: #fff;
   box-shadow: 2px 2px 5px #d9d9d9, -2px -2px 5px #fff;
   padding: 7px;
